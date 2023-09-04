@@ -1,0 +1,8 @@
+
+# virtualenv
+myenv/
+
+# media files
+media/
+
+pyvenv.cfg
